@@ -1,5 +1,5 @@
 # Multi-Layer_GNN
-This repository holds the learnings and many failures of my masters thesis at University College London.
+This repository holds the many learnings and failures of my masters thesis at University College London.
 
 The thesis was written during my time at the BIS Innovation Hub in London. Summer 2025.
 
